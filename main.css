@@ -1,0 +1,12 @@
+body {
+  background-image: url("background.jpg");
+  background-size: contain;
+  background-repeat: repeat;
+padding-left: 11em;
+padding-right: 20em;
+font-family:
+Georgia, "Times New Roman",
+Times, serif;
+color: red;
+
+}
